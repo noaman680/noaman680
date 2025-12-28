@@ -1,7 +1,7 @@
 # 💫 About Me:
 # 👋 Hi, I'm Noaman Shaikh
 
-### 🚀 Full Stack Software Engineer  
+### 🚀 Full Stack AI/ML Software Engineer  
 Building **scalable, reliable, and real-world applications** with Java, Spring Boot & React.
 
 ---
@@ -18,15 +18,6 @@ Building **scalable, reliable, and real-world applications** with Java, Spring B
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages:** Java • JavaScript • TypeScript • Python  
-**Frontend:** React • Redux • CSS3 • HTML5  
-**Backend:** Spring Boot • REST APIs • JWT Auth • WebSocket  
-**Database:** MySQL • MongoDB • PostgreSQL  
-**Cloud & DevOps:** AWS (EC2, S3, Lambda) • Docker • CI/CD • Git
-
----
 
 ## 📌 Featured Projects
 
@@ -46,6 +37,17 @@ Building **scalable, reliable, and real-world applications** with Java, Spring B
 **📁 Repo:** *(link to booking platform repo)*
 
 *(Add more projects with similar bullets)*
+
+---
+
+### 💼 Professional Experience
+
+**Software Engineer – Cognifyz Technologies (Jan 2024 – Mar 2024)**  
+- Engineered real-time chat system supporting **1000+ concurrent users**
+- Reduced message latency by **40%** using async event-driven architecture
+- Built moderation microservice with automated workflows
+- Maintained **95%+ test coverage** with unit & integration testing
+
 
 ---
 
