@@ -1,5 +1,64 @@
 # 💫 About Me:
-- Building scalable full-stack applications using **Spring Boot, React, and TypeScript**<br>- Enhancing **TripSync**, a real-time collaborative travel planning platform<br>- Improving backend performance, API security (JWT), and system design practices<br>- Writing clean, production-ready code with proper testing and documentation<br>- Advanced **System Design** (scalability, load balancing, caching strategies)<br>- **Microservices architecture** and distributed systems<br>- Cloud & DevOps practices using **AWS, Docker, Kubernetes**<br>- Writing efficient and optimized **DSA solutions in Java**<br>- Open-source **Java / Spring Boot** projects<br>- Full-stack applications using **React + REST APIs**<br>- Real-time systems (chat apps, collaboration tools, WebSockets)<br>- Backend-focused projects involving databases and performance optimization<br>- Large-scale system design reviews<br>- Best practices for deploying production apps on AWS<br>- Improving code quality through architecture feedback<br>- Open-source contribution guidance and mentorship<br>- Java & Spring Boot backend development<br>- REST API design and JWT authentication<br>- Real-time communication using WebSockets<br>- Database schema design and query optimization<br>- Full-stack project structure and best practices<br>- 📧 Email: noaman.sae.comp@gmail.com<br>- 💼 LinkedIn: https://www.linkedin.com/in/noaman680/<br>- 💻 GitHub: https://github.com/noaman680<br>He / Him<br>
+# 👋 Hi, I'm Noaman Shaikh
+
+### 🚀 Full Stack Software Engineer  
+Building **scalable, reliable, and real-world applications** with Java, Spring Boot & React.
+
+---
+
+## 🔭 About Me
+
+- 📍 Based in Pune, India
+- 💻 Full Stack developer with hands-on experience in **Java, React, TypeScript, Spring Boot**
+- ⚙️ I build **production-grade projects** with clean architecture and real business features
+- 💡 Passionate about **microservices, real-time communication (WebSockets), performance & cloud**
+- 📫 Let’s connect:  
+  LinkedIn: https://www.linkedin.com/in/noaman680/  
+  Portfolio: (if you have one — add link)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Java • JavaScript • TypeScript • Python  
+**Frontend:** React • Redux • CSS3 • HTML5  
+**Backend:** Spring Boot • REST APIs • JWT Auth • WebSocket  
+**Database:** MySQL • MongoDB • PostgreSQL  
+**Cloud & DevOps:** AWS (EC2, S3, Lambda) • Docker • CI/CD • Git
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 **TripSync – Travel Partner Matchmaking System**
+**Tech:** React, TypeScript, Spring Boot, MongoDB, WebSockets  
+- Real-time collaboration between travel partners  
+- JWT authentication & RBAC  
+- Clean, scalable architecture  
+- Performance optimizations  
+**📁 Repo:** *(link to your TripSync repo)*
+
+### 📍 **Enterprise Booking Platform**
+**Tech:** Spring Boot, MySQL, Redis, REST APIs  
+- Scalable reservation system  
+- Pagination, filtering, caching  
+- Analytics dashboard  
+**📁 Repo:** *(link to booking platform repo)*
+
+*(Add more projects with similar bullets)*
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noaman680&theme=dark&show_icons=true)
+
+---
+
+## 🔗 Let’s Connect
+
+LinkedIn: https://www.linkedin.com/in/noaman680/  
+Email: *(your email)*
 
 
 ## 🌐 Socials:
